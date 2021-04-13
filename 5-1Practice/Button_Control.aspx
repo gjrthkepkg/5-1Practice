@@ -11,6 +11,8 @@
     <form id="form1" runat="server">
         <div>
         </div>
+        <asp:Button ID="btn_Sub" runat="server" Text="Button" />
+        <asp:Label ID="lb_Txt" runat="server" Text="Label"></asp:Label>
     </form>
 </body>
 </html>
